@@ -1,0 +1,5 @@
+.vscode
+.tmp
+*.log
+/app/build
+.DB_Store
